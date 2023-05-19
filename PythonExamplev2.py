@@ -1,4 +1,5 @@
-#Bu örnek Ekrana 10 defa "Hello versioning systems with git" metnini yazdırır
+#Bu örnek Ekrana kullanıcının girdiği sayı kadar ekrana
+# "Hello versioning systems with git" metnini yazdırır
 
 sayac = 1
 while(sayac<=10):
