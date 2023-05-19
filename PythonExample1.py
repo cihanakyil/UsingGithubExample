@@ -1,0 +1,1 @@
+#Bu örnek Ekrana 10 defa "Hello versioning systems with git" metnini yazdırır
